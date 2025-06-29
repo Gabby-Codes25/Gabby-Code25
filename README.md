@@ -42,7 +42,7 @@ I’m a passionate **Software Developer** who loves to solve problems with code 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabby-codes25/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GabbyCodes25)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://obasigabrielportfolio.netlify.app)
 
 ---
 
