@@ -1,6 +1,6 @@
 # Hi there, I’m Gabby 👋
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gabby-Codes25&fontSize=40&fontAlignY=35&desc=Software%20Developer%20%7C%20UI%20Enthusiast&descAlignY=60)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gabby-Codes&fontSize=40&fontAlignY=35&desc=Software%20Developer%20%7C%20UI%20Enthusiast&descAlignY=60)
 
 ## 👩‍💻 About Me
 I’m a passionate **Software Developer** who loves to solve problems with code and create good, attractive user interfaces. I thrive on building experiences that are both functional and visually appealing.
